@@ -1,5 +1,5 @@
 <nav class="bg-danger">
 <h1>
-    Navigasi
+    Navigasi tes
 </h1>
 </nav>
